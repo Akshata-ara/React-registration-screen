@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Shruti",
+      "email": "shruti@gmail.com",
+      "phone": "8976589432"
+    },
+    {
+      "id": 2,
+      "name": "Sahana",
+      "email": "sahana@gmail.com",
+      "phone": "9554837592"
+    },
+    {
+      "id": 3,
+      "name": "Naagalakshmi",
+      "email": "naagu@gmail.com",
+      "phone": "8493567352"
+    },
+    {
+      "id": 4,
+      "name": "Sakshi",
+      "email": "sakshi@gmail.com",
+      "phone": "9564783924"
+    },
+    {
+      "id": 5,
+      "name": "Kavitha",
+      "email": "kavitha@gmail.com",
+      "phone": "6657389465"
+    },
+    {
+      "id": 6,
+      "name": "Suchitra",
+      "email": "suchi@gmail.com",
+      "phone": "9784875201"
+    },
+    {
+      "id": 7,
+      "name": "Roopa1",
+      "email": "roopa@gmail.com",
+      "phone": "9678493562"
+    },
+    {
+      "name": "Akshata Arakerimath",
+      "email": "akshataarakerimath@gmail.com",
+      "phone": "08904763628",
+      "id": 8
+    },
+    {
+      "name": "Akshata Arakerimath",
+      "email": "akshataarakerimath@gmail",
+      "phone": "8904763628",
+      "Upload": "C:\\fakepath\\Akshata_CV(Jsp).pdf",
+      "id": 9
+    },
+    {
+      "name": "nancy",
+      "email": "nancy@gmail",
+      "phone": "23",
+      "id": 10
+    }
+  ]
+}
